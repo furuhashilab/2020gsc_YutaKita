@@ -34,7 +34,7 @@ What do your findings mean? あなたが見つけたことは何を意味する�
 What have you learned from the study? この研究を通じて得られたものは？次に引き継ぐべき課題は？(500文字以内で簡単に記述する)
 
 ## 参考文献:
-
+卒業論文本文中に記載。
 ## 謝辞:
 
 
