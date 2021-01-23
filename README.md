@@ -1,3 +1,5 @@
+# 2020年度　木多祐太ゼミ論用レポジトリ
+
 # 卒業論文本文
 https://github.com/furuhashilab/2020gsc_YutaKita/blob/master/graduationthesis.md
 
