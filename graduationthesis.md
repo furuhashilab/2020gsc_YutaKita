@@ -35,11 +35,12 @@ What have you learned from the study? この研究を通じて得られたもの
 
 ## 謝辞:
 
-**＊
-#　卒論本文
+
+
+卒論本文
 https://github.com/furuhashilab/2020gsc_YutaKita/blob/master/graduationthesis.md
 
-#　レポジトリ
+レポジトリ
 https://github.com/furuhashilab/sotsuron2020/projects/16
 
 
