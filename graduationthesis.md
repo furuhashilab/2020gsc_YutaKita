@@ -35,7 +35,7 @@ What have you learned from the study? この研究を通じて得られたもの
 
 ## 参考文献:
 卒業論文本文中に記載。
-## 謝辞:
+
 
 
 
