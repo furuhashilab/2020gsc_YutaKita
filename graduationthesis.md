@@ -28,7 +28,9 @@ What did you do? 具体的には何をしたのか？
 　そして全83箇所を回って集めたデータを、渋谷区が公開していたCSVファイルに補完し、渋谷区公衆トイレデータの改良版を作成した。
  <img width="1380" alt="トイレデータ" src="https://user-images.githubusercontent.com/62396370/105613882-bbe49080-5e08-11eb-98de-c849c6031bf7.png">
  次にそのファイルをuMapとGoogleマップに落とし込んでいった。
+
 <img width="450" alt="スクリーンショット 2021-01-24 5 59 56" src="https://user-images.githubusercontent.com/62396370/105614060-18947b00-5e0a-11eb-8f58-9ac89f785727.png">
+
 <img width="450" alt="スクリーンショット 2021-01-24 6 00 45" src="https://user-images.githubusercontent.com/62396370/105614013-a6bc3180-5e09-11eb-9a61-9b940f1860b9.png">
  また、オストメイト設備がある公衆トイレ、車椅子で利用することが可能な公衆トイレのレイヤーも作成し、それぞれの利用者が必要とする公衆トイレをすぐに見つけることが出来る地図を作成した。最後に、今回収集したデータを元に、オープンストリートマップと、Wheelmapにもこれらの情報を追加した。
 
