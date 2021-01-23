@@ -34,6 +34,7 @@ What did you do? 具体的には何をしたのか？
 <img width="500" alt="スクリーンショット 2021-01-24 6 00 45" src="https://user-images.githubusercontent.com/62396370/105614013-a6bc3180-5e09-11eb-9a61-9b940f1860b9.png"><img width="500" alt="スクリーンショット 2021-01-24 5 59 56" src="https://user-images.githubusercontent.com/62396370/105614060-18947b00-5e0a-11eb-8f58-9ac89f785727.png">
 uMap=<iframe width="100%" height="300px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/ja/map/120-ver2_550586?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="//umap.openstreetmap.fr/ja/map/120-ver2_550586">フルスクリーン表示</a></p>
 Googleマップ=<iframe src="https://www.google.com/maps/d/u/1/embed?mid=17mLCI1Uou2l6ZBaFHTB7wwoUdHOCuUWY" width="640" height="480"></iframe>
+
  また、オストメイト設備がある公衆トイレ、車椅子で利用することが可能な公衆トイレのレイヤーも作成し、それぞれの利用者が必要とする公衆トイレをすぐに見つけることが出来る地図を作成した。最後に、今回収集したデータを元に、オープンストリートマップと、Wheelmapにもこれらの情報を追加した。
 
 ## 研究結果:
