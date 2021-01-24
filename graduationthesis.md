@@ -40,7 +40,7 @@ Googleマップ=<iframe src="https://www.google.com/maps/d/u/1/embed?mid=17mLCI1
 # Conclusion
 
 ## 参考文献:
-国土交通省　「日常でよく利用するトイレに関するアンケート調査」結果について：https://www.mlit.go.jp/common/001171641.pdf
+国土交通省「日常でよく利用するトイレに関するアンケート調査」結果について：https://www.mlit.go.jp/common/001171641.pdf
 
 
 
