@@ -46,7 +46,7 @@ Googleマップ=<iframe src="https://www.google.com/maps/d/u/1/embed?mid=17mLCI1
 国土交通省「日常でよく利用するトイレに関するアンケート調査」結果について：https://www.mlit.go.jp/common/001171641.pdf
 
 
-
+## GitHub 
 
 卒論本文
 https://github.com/furuhashilab/2020gsc_YutaKita/blob/master/graduationthesis.md
